@@ -11,11 +11,8 @@
 
 	<properties>
 		<springframework.version>4.0.6.RELEASE</springframework.version>
+		  <tomcat.version>8.5.23</tomcat.version>
 	</properties>
-	<properties>
-    <tomcat.version>8.5.23</tomcat.version>
-  </properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
